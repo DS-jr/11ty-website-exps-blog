@@ -2,8 +2,8 @@
 
 # Page header
 
-# taKe riSks!
-## foLLow mY iNsTincT !
+# taKe riSks
+## foLLow mY iNsTincT
 
 
-### ==puT liMiTs & fOllOw tHem bY aLL mEans!==
+### ==puT liMiTs & fOllOw tHem bY aLL mEans
