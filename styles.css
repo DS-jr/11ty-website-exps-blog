@@ -1,0 +1,12 @@
+body {
+    margin: 1;
+    max-width: 40em;
+    background-color: orange;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    margin: 30px;
+    font-size: 100%;
+}
