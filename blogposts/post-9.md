@@ -1,11 +1,2 @@
----
-title: Your Page Title
-styles:
-  - /styles.css
----
-<style>
-body {
-  background-color: #f0f0f0;
-}
-</style>
+(setq markdown-css-paths '("/styles.css"))
 ### (Immanuel Kant) “Rules for happiness: smth to do, smb to love, smth to hope for.” 

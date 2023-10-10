@@ -1,8 +1,5 @@
----
-title: tiTle CaMpbeLL poSt
-styles: 
-    - /styles.css 
---- 
+<link rel="stylesheet" type="text/css" href="/styles.css">
+
 Some ideas I've collected from Joseph Campbell (world-level expert in mythology, professor of literature, writer):
 ![photo of Joseph Campbell](/Joseph%20Campbell.%20Photo.%20FB%20post.%20v1.jpg)
 - “The cave you fear to enter holds the treasure you seek.”
